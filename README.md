@@ -64,8 +64,8 @@ ai_learning_path = {
 
 很高兴认识志同道合的开发者和AI爱好者。无论是技术讨论、项目合作，还是闲聊最新科技趋势，都欢迎联系我！
 
-Wechat: shizi_photo
-CSDN: Ava-J
+- Wechat: shizi_photo
+- CSDN: Ava-J
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
