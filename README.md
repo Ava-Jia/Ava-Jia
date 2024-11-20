@@ -4,21 +4,22 @@
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
-## 🚀 About Me
+## 🚀 关于我
 
 Hey there! I'm a passionate Full Stack Developer with an insatiable curiosity for Artificial Intelligence.
 我是一名热衷于探索人工智能的全栈开发工程师。
 
-### 🎯 What Drives Me
-- Building elegant solutions to complex problems
-- Creating seamless user experiences that bring joy
-- Exploring the endless possibilities of AI
-- Contributing to open-source projects that make a difference
-- Continuous learning and sharing knowledge with the community
+### 🎯 驱动力
+- 为复杂问题打造优雅解决方案
+- 创造令人愉悦的用户体验
+- 探索AI的无限可能
+- 为开源社区贡献力量
+- 持续学习并分享知识
 
-## 🛠️ Technical Arsenal
 
-### 💻 Frontend Mastery
+## 🛠️ 武器库
+
+### 💻 前端技能
 ```javascript
 const frontendSkills = {
     语言: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
@@ -28,7 +29,7 @@ const frontendSkills = {
 };
 ```
 
-### ⚙️ Backend Expertise
+### ⚙️ 后端技能
 ```python
 backend_skills = {
     "语言": ["Python", "Node.js", "Java"],
@@ -38,7 +39,7 @@ backend_skills = {
 }
 ```
 
-### 🤖 AI Journey
+### 🤖 AI 技能
 ```python
 ai_learning_path = {
     "当前专注": ["深度学习", "计算机视觉", "自然语言处理"],
@@ -66,7 +67,7 @@ ai_learning_path = {
 Wechat: shizi_photo
 CSDN: Ava-J
 
-### 📚 Latest Blog Posts
+## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
 <li><a target="_blank" href="https://blog.csdn.net/m0_63887085/article/details/143921379">【前端开发入门指南DAY1：HTML基础（网页开发的地基与框架）】</a></li>
