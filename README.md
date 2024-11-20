@@ -7,9 +7,9 @@
 ## 🚀 关于我
 
 Hey there! I'm a passionate Full Stack Developer with an insatiable curiosity for Artificial Intelligence.
-我是一名热衷于探索人工智能的全栈开发工程师。
+一名热衷于探索人工智能的全栈开发工程师。
 
-### 🎯 驱动力
+### 🎯 我的驱动力
 - 为复杂问题打造优雅解决方案
 - 创造令人愉悦的用户体验
 - 探索AI的无限可能
@@ -57,12 +57,12 @@ ai_learning_path = {
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ava-Jia&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ava-Jia&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
 
-我总是很高兴认识志同道合的开发者和AI爱好者。无论是技术讨论、项目合作，还是闲聊最新科技趋势，都欢迎联系我！
+很高兴认识志同道合的开发者和AI爱好者。无论是技术讨论、项目合作，还是闲聊最新科技趋势，都欢迎联系我！
 
 Wechat: shizi_photo
 CSDN: Ava-J
