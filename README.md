@@ -2,16 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Eternal+Learner;Code+Craftsman)](https://git.io/typing-svg)
 
-> "The only way to do great work is to love what you do." - Steve Jobs
-
 ## 🚀 关于我
 
-Hey there! I'm a passionate Full Stack Developer with an insatiable curiosity for Artificial Intelligence.
+Hey there! I'm a Full Stack Developer with an curiosity for Artificial Intelligence.
 一名热衷于探索人工智能的全栈开发工程师。
 
 ### 🎯 我的驱动力
-- 为复杂问题打造优雅解决方案
-- 创造令人愉悦的用户体验
 - 探索AI的无限可能
 - 为开源社区贡献力量
 - 持续学习并分享知识
